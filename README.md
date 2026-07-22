@@ -1,2 +1,2 @@
 # IceCreamSalesExpectancy
-machine-learning project that uses polynomial regression to analyze and predict ice-cream sales based on temperature. It includes data visualization and a regression curve to show how sales change as temperature increases.
+machine-learning project that uses polynomial regression to analyze and predict ice-cream sales based on temperature. It includes data visualization and a regression curve to show how sales change as temperature increases. Made by abdullah
